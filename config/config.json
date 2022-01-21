@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xD00759162e56B0128c10BF791486022954b07f65",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd00759162e56b0128c10bf791486022954b07f65",
+  "HASHLIPS_LINK": "https://hashlips.online/HashLips",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CryptoBoys1.0",
+  "SYMBOL": "CryptoBoy",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptoboys1-0",
+  "SHOW_BACKGROUND": true
+}
